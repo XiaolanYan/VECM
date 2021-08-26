@@ -1,0 +1,4 @@
+2021-01-19 10:44:16-870558 log:VECM.run_vecm_func(),row:368,col:16,lagInput:19,VEC_ADJ_RS:0.18345164311075868
+2021-01-19 10:44:18-823947 log:end run_vecm_func 
+2021-01-20 10:06:14-980140 log:VECM.run_vecm_func(),row:368,col:16,lagInput:19,VEC_ADJ_RS:0.9474943870020497
+2021-01-20 10:06:15-414972 log:end run_vecm_func 
